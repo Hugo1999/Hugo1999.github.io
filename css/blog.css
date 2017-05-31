@@ -1,0 +1,45 @@
+/*div{border: #000 solid 1px;
+ }*/
+
+
+body{
+background-color: #CFCFCF;
+} 
+
+.dia{font-size: 50px;
+}
+
+.titulo{font-size: 50px;
+ font-weight: bold;
+ color: #000080;
+ padding: 12px;
+}
+
+.escrito{font-size: 20px;
+ color: #8B0000;
+ }
+
+.img{text-align: center;
+ padding: 12px;
+ }
+
+
+.textcont{padding: 10px;
+ font-size: 15px;
+ text-align: justify;
+}
+
+.img_form{text-align: center;
+ background-color: #00CED1;}
+
+
+
+.footer{text-align: center;
+ background-color: #CD0000;}
+
+/* login */
+.border_iden{border:solid 2px;
+color:#8B0000;
+border-radius: 1px;}
+
+/* usuario */

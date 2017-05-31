@@ -1,0 +1,60 @@
+/*
+{border: #000 solid 1px;
+ }*/
+
+body{
+background-color: #CFCFCF;
+} 
+
+.text_center{text-align: center;
+ color: #8B0000;
+}
+
+.text_2{text-align: center;
+ color:#33CCFF;
+}
+
+
+
+.parte1{background-color: #66CDAA;
+ text-align:justify;}
+
+.parte2{background-color: #66CDAA;
+ text-align:justify;}
+
+.parte3{background-color: #66CDAA;
+ text-align:justify;}
+
+.parte4{background-color: #66CDAA;
+ text-align:justify;}
+
+
+
+.sobre1{background-color: #00688B;
+ }
+
+.sobre2{background-color: #00688B;
+ }
+
+
+
+.img_equipe{background-color: #00008B;
+ text-align: center;
+ font-weight: bold;
+}
+
+.txt_equipe{margin-top: 10px;
+ text-align: center;
+ color: #000;
+ font-weight: bold;
+}
+
+
+
+.img_form{text-align: center;
+ background-color: #00CED1;}
+
+
+
+.footer{text-align: center;
+ background-color: #CD0000;}
